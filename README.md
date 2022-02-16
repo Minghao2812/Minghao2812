@@ -28,6 +28,7 @@
 ![Vim](https://img.shields.io/badge/-Vim-019733?logo=Vim)
 ![Notion](https://img.shields.io/badge/-Notion-000000?logo=notion)
 ![Tableau](https://img.shields.io/badge/-Tableau-ffffff?logo=Tableau)
+![Excel](https://img.shields.io/badge/-Excel-217346?logo=Microsoft%20Excel)
 ![Lightroom](https://img.shields.io/badge/-Lightroom-ffffff?logo=Adobe%20Lightroom)
 ![Photoshop](https://img.shields.io/badge/-Lightroom-ffffff?logo=Adobe%20Photoshop)
 
