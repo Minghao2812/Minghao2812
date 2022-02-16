@@ -1,10 +1,11 @@
 ### Hi there 👋
+<img src="/profile-3d-contrib/profile-green-animate.svg" width="48">
 
-![profile-3d](/profile-3d-contrib/profile-green-animate.svg | width=50)
 ![Metrics](/github-metrics.svg)
 
 
 <!--
+![profile-3d](/profile-3d-contrib/profile-green-animate.svg | width=50)
 - This is a LEGO-like contribution chart.
 ![profile-3d](/profile-3d-contrib/profile-gitblock.svg)
 
