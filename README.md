@@ -17,6 +17,7 @@
 ![Pandas](https://img.shields.io/badge/-pandas-150458?logo=pandas)
 ![Linux](https://img.shields.io/badge/-Linux-ffffff?logo=Linux)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-ffffff?logo=Ubuntu)
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-A22846?logo=Raspberry%20Pi)
 ![Terminal](https://img.shields.io/badge/-Windows%20Terminal-4D4D4D?logo=Windows%20Terminal)
 ![Anaconda](https://img.shields.io/badge/-Anaconda-ffffff?logo=anaconda)
 ![PyPI](https://img.shields.io/badge/-PyPI-ffffff?logo=pypi)
