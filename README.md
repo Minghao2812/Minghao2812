@@ -1,13 +1,19 @@
 ### Hi there 👋
-<center>
-    <img src="/profile-3d-contrib/profile-green-animate.svg" width="500">
-    <img src="/github-metrics.svg" width="500">
-</center>
+<p align="center">
+	<a href="/profile-3d-contrib/profile-green-animate.svg">
+		<img width="600em" src="/profile-3d-contrib/profile-green-animate.svg">
+	</a>
+</p>
+
 
 
 
 
 <!--
+<center>
+    <img src="/profile-3d-contrib/profile-green-animate.svg" width="500">
+    <img src="/github-metrics.svg" width="500">
+</center>
 ![Metrics](/github-metrics.svg)
 ![profile-3d](/profile-3d-contrib/profile-green-animate.svg | width=50)
 - This is a LEGO-like contribution chart.
