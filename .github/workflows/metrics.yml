@@ -49,7 +49,7 @@ jobs:
           plugin_music_provider: spotify
           plugin_music_token: "811ff7ca16e94f60ac9674f7cec509d1, 7db8ab8fae9f44b089897d4cbd3e377, AQA0gtaDlCYNApdFf54B-oZrgeyJqC7pSqaxeKPLXinA-9cB6KKM-NEcEjUuYtEnO2uZ7vUGuDaiogFQ-zJrD52tHYVcff4wF2MsDAualnOWO3VJQF8TdaOWK-WtL7E9hFo"
           plugin_music_mode: playlist
-          plugin_music_playlist: "https://open.spotify.com/embed/playlist/4tZZJRsTTjmauFP6KbghPo?utm_source=generator"
+          plugin_music_playlist: https://open.spotify.com/embed/playlist/4tZZJRsTTjmauFP6KbghPo
           
           ## plugin: iso calendar
 #           plugin_isocalendar: yes
