@@ -1,5 +1,7 @@
 ### Hi there 👋
-<img src="/profile-3d-contrib/profile-green-animate.svg" width="500" align="center">
+<center>
+    <img src="/profile-3d-contrib/profile-green-animate.svg" width="500">
+</center>
 
 ![Metrics](/github-metrics.svg)
 
