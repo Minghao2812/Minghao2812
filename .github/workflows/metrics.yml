@@ -42,6 +42,7 @@ jobs:
           plugin_topics_limit: 10
           ## plugin: coding habits
           plugin_habits: yes
+          plugin_habits_charts: yes
           ## plugin: iso calendar
 #           plugin_isocalendar: yes
 #           plugin_isocalendar_duration: full-year
