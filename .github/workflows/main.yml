@@ -1,7 +1,8 @@
 name: Metrics
 on:
   # Schedule daily updates
-  schedule: [{cron: "0 0 * * *"}]
+  schedule: [{cron: "* * * * *"}]
+  #schedule: [{cron: "0 */24 * * *"}]
   # (optional) Run workflow manually
   workflow_dispatch:
   # (optional) Run workflow when pushing on master/main
@@ -19,13 +20,13 @@ jobs:
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Shanghai
-          plugin_followup: yes
-          plugin_followup_sections: repositories, user
-          filename: metrics.classic.svg
-          plugin_lines: yes
-          plugin_stargazers: yes
           ## plugin: most used languages
           plugin_languages: yes
           plugin_languages_sections: recently-used
           plugin_languages_recent_load: 400
           plugin_languages_recent_days: 14
+          ## plugin: coding habits
+          plugin_habits: yes
+
+          filename: metrics.classic.svg
+          plugin_lines: yes
