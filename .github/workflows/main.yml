@@ -14,3 +14,6 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           config_timezone: Asia/Shanghai
+          filename: metrics.classic.svg
+          base: header, repositories
+          plugin_lines: yes
