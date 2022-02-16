@@ -44,7 +44,7 @@ jobs:
           ## plugin: topics
           plugin_topics: yes
           plugin_topics_mode: icons
-          plugin_topics_limit: 0
+          plugin_topics_limit: 10
 # name: Metrics
 # on:
 #   # Schedule daily updates
