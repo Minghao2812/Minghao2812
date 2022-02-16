@@ -13,7 +13,14 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
+          
+          # Options
+          user: Minghao2812
+          template: classic
+          base: header, activity, community, repositories, metadata
           config_timezone: Asia/Shanghai
+          plugin_followup: yes
+          plugin_followup_sections: repositories, user
           filename: metrics.classic.svg
-          base: header, repositories
           plugin_lines: yes
+          # plugin_stargazers: yes
