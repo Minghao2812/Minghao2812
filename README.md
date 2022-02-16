@@ -1,10 +1,15 @@
-### Hi there 👋
+### Welcome to Minghao's GitHub! 👋
+
 <p align="center">
 	<a href="/profile-3d-contrib/profile-green-animate.svg">
-		<img width="600em" src="/profile-3d-contrib/profile-green-animate.svg">
+		<img width="500em" src="/profile-3d-contrib/profile-green-animate.svg">
 	</a>
 </p>
-
+<p align="center">
+	<a href="/github-metrics.svg">
+		<img width="500em" src="/github-metrics.svg">
+	</a>
+</p>
 
 
 
