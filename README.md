@@ -34,7 +34,7 @@
 ![Tableau](https://img.shields.io/badge/-Tableau-ffffff?logo=Tableau)
 ![Excel](https://img.shields.io/badge/-Excel-217346?logo=Microsoft%20Excel)
 ![Lightroom](https://img.shields.io/badge/-Lightroom-ffffff?logo=Adobe%20Lightroom)
-![Photoshop](https://img.shields.io/badge/-Lightroom-ffffff?logo=Adobe%20Photoshop)
+![Photoshop](https://img.shields.io/badge/-Photoshop-ffffff?logo=Adobe%20Photoshop)
 
 
 <p align="center">
