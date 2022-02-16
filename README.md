@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img src="/profile-3d-contrib/profile-green-animate.svg" width="48">
+<img src="/profile-3d-contrib/profile-green-animate.svg" width="200" style="align:middle">
 
 ![Metrics](/github-metrics.svg)
 
