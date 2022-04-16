@@ -16,6 +16,7 @@
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=NumPy)
 ![SciPy](https://img.shields.io/badge/-SciPy-ffffff?logo=SciPy)
 ![Pandas](https://img.shields.io/badge/-pandas-150458?logo=pandas)
+![Flask](https://img.shields.io/badge/-flask-000000?logo=flask)
 ![Linux](https://img.shields.io/badge/-Linux-ffffff?logo=Linux)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-ffffff?logo=Ubuntu)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-A22846?logo=Raspberry%20Pi)
